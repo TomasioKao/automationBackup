@@ -4,8 +4,8 @@ import sys
 import time
 import shutil
 
-SRC_PATH = "D:\\FJU Course Material\\JAVA"
-DEST_PATH = "D:\\tomasioDir\\"
+SRC_PATH = "D:\\ABC\\DEF"
+DEST_PATH = "D:\\GHI\\"
 CURRENT_TIME = time.strftime("%m-%d-%Y", time.localtime())
 FILE_NAME = DEST_PATH + CURRENT_TIME + "_backup"
 
